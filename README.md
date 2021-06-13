@@ -1,3 +1,3 @@
-DataScienceCoursera
+Data Science Projects
 ===================
-Tools for Data Scientist
+This folder stores a collection of personal projects
